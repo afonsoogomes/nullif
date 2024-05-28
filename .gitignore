@@ -1,1 +1,57 @@
-node_modules
+# Node.js
+node_modules/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de saída do TypeScript
+dist/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor de código
+.vscode/
+.idea/
+*.swp
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next
+
+# SvelteKit build output
+.svelte-kit
+
+# Remix build output
+build
