@@ -1,0 +1,25 @@
+{
+  "name": "nullif",
+  "version": "1.0.0",
+  "description": "A TypeScript implementation of the SQL NULLIF function",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afonsoogomes/nullif"
+  },
+  "keywords": [
+    "typescript",
+    "nullif",
+    "utility"
+  ],
+  "author": "Afonso Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  }
+}
