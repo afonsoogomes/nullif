@@ -1,4 +1,4 @@
-# nullif-ts
+# nullif
 
 A TypeScript implementation of the SQL `NULLIF` function.
 
