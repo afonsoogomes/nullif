@@ -7,4 +7,4 @@ A TypeScript implementation of the SQL `NULLIF` function.
 Install the package via NPM:
 
 ```bash
-npm install nullif-ts
+npm install nullif
